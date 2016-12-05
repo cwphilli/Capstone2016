@@ -10,6 +10,8 @@ import javax.swing.*;
  * We can add whatever functionality we need her to display in the tabs.
  */
 
+//TESTING
+
 public class Tabs extends JPanel {
 
 	/**
